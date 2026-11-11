@@ -1,12 +1,12 @@
 title: "Emergency plumbing"
 seo:
   title: "Emergency plumber in Srinagar | Saaki's Plumbing Services"
-  description: "Burst pipes, leaks, blocked drains and no hot water in Srinagar: call Saaki's Plumbing Services and we'll tell you straight away when we can be there."
+  description: "Burst pipes, leaks, blocked drains and no hot water in Srinagar, Budgam and Ganderbal. Call Saaki's Plumbing Services and we'll tell you when we can come."
 updatedAt: 2026-10-19
 blocks:
   - blockType: hero
     title: Emergency plumbing
-    lead: "Water where it shouldn't be? Call us and we'll tell you straight away when we can get to you."
+    lead: "Water where it shouldn't be? Call us and we'll tell you as soon as we can get to you."
     buttons:
       - label: Contact us now
         href: /contact
@@ -32,7 +32,7 @@ blocks:
 
   - blockType: cta
     title: Need help now?
-    text: Get in touch and tell us what's happening. We'll call you back as soon as we can.
+    text: "Get in touch and tell us what's happening. We'll call you back as soon as we can, across Srinagar, Budgam and Ganderbal."
     buttons:
       - label: Contact us
         href: /contact

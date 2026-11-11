@@ -1,25 +1,25 @@
 title: "About us"
 seo:
   title: "About Saaki's Plumbing Services | Plumbers in Srinagar"
-  description: "Who we are, how we work and what we care about: Saaki's Plumbing Services is a local plumbing and heating firm in Srinagar."
-updatedAt: 2026-10-19
+  description: "Who we are and how we work. Saaki's Plumbing Services offers all types of plumbing in Srinagar, Budgam and Ganderbal."
+updatedAt: 2026-11-11
 blocks:
   - blockType: hero
     title: "About Saaki's Plumbing Services"
-    lead: "A local plumbing and heating firm that people recommend to their friends."
+    lead: "A local plumbing firm serving Srinagar, Budgam and Ganderbal."
 
   - blockType: split
     title: Our story
     body: |
-      Tell your story here: how the business started, who runs it, and what you're proud of. People like to know who will be coming to their home.
+      Saaki's Plumbing Services is a plumbing business based in Srinagar. We take on all types of plumbing work for homes and properties across Srinagar, Budgam and Ganderbal.
 
-      Keep it short and true. A few sentences about your experience and the kind of work you enjoy is plenty.
+      Tell people who runs the business and how it started. A few sentences about your experience and the work you enjoy are plenty.
     highlight:
       title: In short
       items:
-        - Local and independent
-        - Fully insured
-        - Clear prices, no surprises
+        - Based in Srinagar
+        - Serving Srinagar, Budgam and Ganderbal
+        - All types of plumbing work
 
   - blockType: features
     tone: white
@@ -27,17 +27,17 @@ blocks:
     items:
       - icon: MessageCircle
         title: We explain things
-        text: You'll know what we're doing and why, before we do it.
+        text: You'll know what we're doing and why, before we start.
       - icon: Clock
-        title: We turn up on time
-        text: If something changes, we call you, not the other way round.
+        title: We turn up when we say we will
+        text: If something changes, we'll call you to let you know.
       - icon: Sparkles
         title: We leave it clean
         text: Dust sheets down while we work, and everything tidied away after.
 
   - blockType: cta
     title: Talk to us about your job
-    text: We're happy to give advice, even if it's a small job.
+    text: Get in touch about any plumbing job in Srinagar, Budgam or Ganderbal.
     buttons:
       - label: Get in touch
         href: /contact
