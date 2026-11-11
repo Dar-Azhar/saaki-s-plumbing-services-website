@@ -10,18 +10,22 @@ blocks:
     buttons:
       - label: Arrange a visit
         href: /contact
+    variant: home
 
-  - blockType: steps
-    title: How a bathroom project works
-    steps:
-      - title: Visit and measure
-        text: We visit your home in Srinagar, Budgam or Ganderbal, look at the room, talk through what you'd like and measure up.
-      - title: Plan and quote
-        text: A written quote with a clear list of what's included and how long it will take.
-      - title: Fit
-        text: Old suite out, pipework, electrics, tiling and the new suite in.
-      - title: Finish
-        text: Sealed, tested and cleaned, ready to use.
+  - blockType: hero
+    variant: home
+    eyebrow: Eyebrow
+    title: Title
+    lead: Lead
+    buttons:
+      - label: Label
+        href: /contact
+      - label: Label
+        href: /services
+    points:
+      - Point
+      - Point
+      - Point
 
   - blockType: split
     tone: white
