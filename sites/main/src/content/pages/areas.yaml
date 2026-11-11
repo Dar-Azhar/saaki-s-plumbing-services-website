@@ -6,11 +6,11 @@ updatedAt: 2026-10-19
 blocks:
   - blockType: hero
     title: Areas we cover
-    lead: "We're based in Srinagar and work across the surrounding area, so we're never far away."
+    lead: "We're based in Srinagar and also work in Budgam and Ganderbal."
 
   - blockType: areas
     title: Towns and villages we visit
-    lead: "If your area isn't listed, ask anyway: we often travel a little further for larger jobs."
+    lead: "If your area isn't listed, ask anyway and we'll let you know."
 
   - blockType: cta
     title: Is your home in our area?
