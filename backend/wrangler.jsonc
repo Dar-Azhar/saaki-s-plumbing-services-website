@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // The contact form's backend. The site reaches it through its service binding only: no public
+  // address, no previews.
+  "name": "saaki-s-plumbing-services-www-backend",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-01",
+  "observability": { "enabled": true },
+  "workers_dev": false,
+  "preview_urls": false,
+  // Enquiries. 
+  "d1_databases": [{"binding":"DB","database_name":"saaki-s-plumbing-services-www-enquiries","database_id":"96b01707-d165-482f-8713-2afb13382ce6","migrations_dir":"migrations"}],
+  "vars": {
+    "SITE_NAME": "Saaki's Plumbing Services",
+    "SITE_ID": "saaki-s-plumbing-services",
+    // Where enquiries are emailed: keep it the same as forms.inbox in sites/main/site.config.ts.
+    "FORM_INBOX": "saaki@gmail.com",
+    "GATEWAY_URL": "https://gateway.craeft.org"
+  }
+  // Secrets (wrangler secret put): TURNSTILE_SECRET_KEY, FORMS_KEY.
+}

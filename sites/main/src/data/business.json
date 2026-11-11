@@ -1,0 +1,20 @@
+{
+  "name": "Saaki's Plumbing Services",
+  "description": "They provide all types of plumbing services.",
+  "businessType": "HomeAndConstructionBusiness",
+  "contact": {
+    "email": "saaki@gmail.com"
+  },
+  "address": {
+    "locality": "Srinagar",
+    "country": "IN"
+  },
+  "areasServed": [
+    "Srinagar",
+    "Budgam",
+    "Ganderbal"
+  ],
+  "openingHours": [],
+  "logo": "/media/logo.svg",
+  "social": []
+}
