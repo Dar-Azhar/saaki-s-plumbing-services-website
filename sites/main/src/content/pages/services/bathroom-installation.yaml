@@ -10,6 +10,7 @@ blocks:
     buttons:
       - label: Arrange a visit
         href: /contact
+    variant: home
 
   - blockType: steps
     title: How a bathroom project works
