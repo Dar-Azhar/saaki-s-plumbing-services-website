@@ -12,6 +12,21 @@ blocks:
         href: /contact
     variant: home
 
+  - blockType: hero
+    variant: home
+    eyebrow: Eyebrow
+    title: Title
+    lead: Lead
+    buttons:
+      - label: Label
+        href: /contact
+      - label: Label
+        href: /services
+    points:
+      - Point
+      - Point
+      - Point
+
   - blockType: split
     tone: white
     title: What we can fit
