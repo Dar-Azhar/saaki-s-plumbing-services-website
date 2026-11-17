@@ -1,0 +1,43 @@
+title: "Blogs"
+seo:
+  title: "Blogs"
+  description: "check our blogs"
+updatedAt: 2026-11-17
+blocks:
+  - blockType: hero
+    title: Blogs
+    lead: "Plumbing and heating work in Srinagar, Budgam and Ganderbal, from a quick repair to a new bathroom."
+    buttons:
+      - label: Get a quote
+        href: /contact
+
+  - blockType: links
+    title: What we can help with
+    items:
+      - href: /services/boiler-repairs
+        icon: Flame
+      - href: /services/bathroom-installation
+        icon: Bath
+      - href: /services/emergency-plumbing
+        icon: Wrench
+
+  - blockType: split
+    tone: white
+    title: Something else?
+    body: |
+      We handle all kinds of plumbing and heating work, big or small. If it involves water or heating, ask us.
+    button:
+      label: Ask about your job
+      href: /contact
+
+  - blockType: cta
+    title: Not sure what you need?
+    text: Describe the problem and we'll tell you how we'd fix it, and what it would cost, in writing.
+    buttons:
+      - label: Contact us
+        href: /contact
+
+  - blockType: areas
+    eyebrow: Eyebrow
+    title: Title
+    note: Note
